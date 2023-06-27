@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\bin\Release\net7.0\Messenger.Infrastructure.deps.json
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\bin\Release\net7.0\Messenger.Infrastructure.runtimeconfig.json
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\bin\Release\net7.0\Messenger.Infrastructure.dll
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\bin\Release\net7.0\Messenger.Infrastructure.pdb
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\bin\Release\net7.0\Messenger.Domain.dll
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\bin\Release\net7.0\Messenger.Domain.pdb
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.dll
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\refint\Messenger.Infrastructure.dll
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.pdb
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\Messenger.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Desktop\Lesson2\Messenger\Messenger.Infrastructure\obj\Release\net7.0\ref\Messenger.Infrastructure.dll
