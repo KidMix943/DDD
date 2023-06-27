@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uO3pnU5XBIqE8NSX+33L4rTWbEfQDLL7PiHXcmnfY1Y=",
+  "Source": "Messenger.Host",
+  "BasePath": "_content/Messenger.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
